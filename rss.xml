@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Bottom Up]]></title>
         <description><![CDATA[Bottom Up]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bottom-up/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 00:27:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 20 Oct 2015 00:31:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bottom-up/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.guim.co.uk/img/media/5979cc947a515f46b34148070d835376a90be3aa/0_341_5119_3072/master/5119.jpg?w=700&q=85&auto=format&sharp=10&s=3b71fd312caa24a818e7780b8a4c1754">]]></description>
+            <link>https://thegrid.ai/bottom-up/df8a4cac-bec0-4a5c-84ec-ebcd1c090b4a/index.html</link>
+            <guid isPermaLink="false">df8a4cac-bec0-4a5c-84ec-ebcd1c090b4a</guid>
+            <pubDate>Tue, 20 Oct 2015 00:30:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Lonely Death of George Bell]]></title>
             <description><![CDATA[<article><h1>The Lonely Death of George Bell</h1><p>They found him in the living room, crumpled up on the mottled carpet. The police did. Sniffing a fetid odor, a neighbor had called 911. The apartment was in north-central Queens, in an unassertive building on 79th Street in Jackson Heights. The apartment belonged to a George Bell. He lived alone.</p><img src="http://static01.nyt.com/images/2015/10/14/nyregion/18DYINGweb3/18DYINGweb3-superJumbo.jpg"></article>]]></description>
