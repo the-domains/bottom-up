@@ -29,8 +29,8 @@ app_links:
     app_name: The Guardian
 isBasedOnUrl: 'http://www.theguardian.com/society/2015/oct/13/sitting-down-at-work-is-no-worse-for-you-than-standing-up-study-claims?CMP=share_btn_fb'
 title: 'Sitting down at work is no worse for you than standing up, study claims'
-datePublished: '2015-10-20T00:44:06.701Z'
-dateModified: '2015-10-20T00:43:46.552Z'
+datePublished: '2015-10-20T00:46:39.052Z'
+dateModified: '2015-10-20T00:46:22.874Z'
 sourcePath: _posts/2015-10-20-sitting-down-at-work-is-no-worse-for-you-than-standing-up-s.md
 published: true
 inFeed: true
