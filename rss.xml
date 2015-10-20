@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bottom Up]]></title>
+        <description><![CDATA[Bottom Up]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 20 Oct 2015 00:27:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Lonely Death of George Bell]]></title>
+            <description><![CDATA[<article><h1>The Lonely Death of George Bell</h1><p>They found him in the living room, crumpled up on the mottled carpet. The police did. Sniffing a fetid odor, a neighbor had called 911. The apartment was in north-central Queens, in an unassertive building on 79th Street in Jackson Heights. The apartment belonged to a George Bell. He lived alone.</p><img src="http://static01.nyt.com/images/2015/10/14/nyregion/18DYINGweb3/18DYINGweb3-superJumbo.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2015/10/18/nyregion/dying-alone-in-new-york-city.html?hp&amp;action=click&amp;pgtype=Homepage&amp;module=mini-moth&amp;region=top-stories-below&amp;WT.nav=top-stories-below&amp;_r=0</link>
+            <guid isPermaLink="false">dbf599ca-da89-45bd-ba42-306cab11d28f</guid>
+            <pubDate>Tue, 20 Oct 2015 00:27:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
