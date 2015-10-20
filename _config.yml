@@ -1,6 +1,6 @@
 name: Bottom Up
 favicon: null
-layout_spectrum: 0.3507170982193202
+layout_spectrum: 0.92656
 typography_spectrum: 0.9932632986456156
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.375
+  brandStrength: 0.75
   lightness: 0.8913300812710077
   saturation: 0.6600827388465405
   rhythmicContrast: 0.8319056185428053
