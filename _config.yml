@@ -1,19 +1,4 @@
-name: Bottom Up
-favicon: null
-layout_spectrum: 0.24872
 typography_spectrum: 0.33002
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#171115'
@@ -25,4 +10,19 @@ color:
   lightness: 0.8913300812710077
   saturation: 0.6600827388465405
   rhythmicContrast: 0.8319056185428053
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24872
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Bottom Up
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
